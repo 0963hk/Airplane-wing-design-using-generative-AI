@@ -1,3 +1,9 @@
+# 2025.10.28 周二
+- 下周二Design期中，复习提上日程
+- 训练机翼的CGAN模型
+- eVTOL预计10.31前准备好自己要讲的部分并做PPT
+- 拜读Efficient Aerodynamic Shape Optimization with Deep-Learning-Based Geometric Filtering
+  
 # 2025.10.26 周日
 - 学习了Batch Normalization的作用
 
