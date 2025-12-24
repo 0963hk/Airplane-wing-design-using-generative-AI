@@ -1,3 +1,7 @@
+# 2025.12.24 周三
+- 开始系统学习和提升深度学习代码能力
+- https://www.bilibili.com/video/BV1Caq6BVEx9/?share_source=copy_web&vd_source=dafbded0ca54cb19e8cbd3a1aaa84402
+
 # 2025.12.21 周日
 - 开始构建基于遗传算法（GA）的逆向设计系统
   
