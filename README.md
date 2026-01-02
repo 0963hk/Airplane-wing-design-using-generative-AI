@@ -1,3 +1,7 @@
+# 2026.01.02 周五
+- 阅读文献《Universal Parametric Geometry Representation Method》
+- 编写CST代码
+  
 # 2025.12.27 周六
 - 上传了整个逆向设计系统的代码说明
 - 下一步计划-系统性验证逆向设计系统：
