@@ -1,3 +1,18 @@
+# 2026.01.07 周三
+- 文献阅读《Airfoil GAN: Encoding and Synthesizing Airfoils for Aerodynamic Shape Optimization》
+- 新增几何参数统计表、几何合理性评分
+  
+# 2026.01.06 周二
+- 文献阅读《NeuralFoil: An Airfoil aerodynamics analysis tool using pyhsics-informed machine learning》
+- 几何约束检查：验证厚度分布合理性（最大厚度位置、厚度变化率）；验证弯度分布合理性；识别异常几何特征
+
+# 2026.01.05 周一
+- 对生成指定升阻力系数的翼型进行几何参数提取：实现自动提取最大厚度、弯度和前缘半径；检查翼型闭合性、自交性和光滑性
+- 文献阅读《Generative method for aerodynamic optimization based on classifier-free guided denosing diffusion probabilistic model》
+
+# 2026.01.03 周六
+- 阅读文献《Data-driven desgin exploration menthod using conditional variational autoencoder for airfoil design》
+
 # 2026.01.02 周五
 - 阅读文献《Universal Parametric Geometry Representation Method》
 - 编写CST代码
