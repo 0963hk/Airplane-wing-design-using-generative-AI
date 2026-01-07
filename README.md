@@ -1,6 +1,7 @@
 # 2026.01.07 周三
 - 文献阅读《Airfoil GAN: Encoding and Synthesizing Airfoils for Aerodynamic Shape Optimization》
 - 新增几何参数统计表、几何合理性评分
+- 由于生成的翼型图像分辨率不够，光滑性这一点要另当别论
   
 # 2026.01.06 周二
 - 文献阅读《NeuralFoil: An Airfoil aerodynamics analysis tool using pyhsics-informed machine learning》
