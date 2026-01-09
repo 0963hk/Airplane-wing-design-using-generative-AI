@@ -1,3 +1,7 @@
+# 2026.01.08 周五
+- 文献阅读《Aerodynamic Coefficient Prediction of Airfoils with Convolutional Neural Network》
+- 新增UIUC原始翼型气动特性分布及可视化
+
 # 2026.01.07 周三
 - 文献阅读《Airfoil GAN: Encoding and Synthesizing Airfoils for Aerodynamic Shape Optimization》
 - 新增几何参数统计表、几何合理性评分
